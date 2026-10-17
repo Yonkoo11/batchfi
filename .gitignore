@@ -39,3 +39,10 @@ video/music/
 # Internal tooling
 .claude/
 .ralph/
+ai/
+company/
+ACCESS.md
+.claude/settings.local.json
+.demo-rehearsal-state.json
+PULSE.md
+SUBMISSION-FORM.txt
